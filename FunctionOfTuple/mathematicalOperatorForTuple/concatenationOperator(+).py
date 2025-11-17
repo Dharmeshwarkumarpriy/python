@@ -1,0 +1,9 @@
+t1=(23,43)
+t2=(54,76)
+print(id(t2))
+t2=t1+t2
+t3=t1+t2
+print(t2)
+print(id(t1))
+print(id(t2))
+print(id(t3))

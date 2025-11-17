@@ -1,0 +1,5 @@
+list=[10,20,30,40]
+sum=0
+for x in list:
+    sum=sum+x
+    print(sum)

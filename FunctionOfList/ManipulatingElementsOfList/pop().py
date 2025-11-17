@@ -1,0 +1,6 @@
+n=[12,23,43,54,65,76,87,89]
+print(n.pop()) # pop means 89 remove. ...
+print(n.pop()) # pop means remove 87. ...
+print(n.pop())
+# NOTE:- IndexError: pop from empty list. ... when data all remove.
+print(n)

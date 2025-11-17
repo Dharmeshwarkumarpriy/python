@@ -1,0 +1,3 @@
+s='dharam'
+# index printing backward direction...
+print(s[-3])

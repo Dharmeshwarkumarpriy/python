@@ -1,0 +1,14 @@
+s=[20,30,40,50,60]
+a=[20,40,607,50,40,80]
+print(a<s)
+print(a>s)
+print(a>=s)
+print(a<=s)
+s1=[20,30,40,50,60]
+print(s[2]>=s1[1])
+print(s)
+print(s1)
+print(s<s1)
+print(s>s1)
+print(s>=s1)
+print(s<=s1)

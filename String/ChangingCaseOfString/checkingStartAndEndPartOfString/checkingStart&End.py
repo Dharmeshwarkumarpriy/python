@@ -1,0 +1,10 @@
+s='today python is very popular'
+print(s.startswith("today"))
+print(s.endswith("popular"))
+print(s.endswith('is'))
+print(s.startswith('t'))
+print(s.endswith('r'))
+print(s.startswith('today python'))
+print(s.endswith('very popular'))
+print(s.startswith('Today'))
+print(s.endswith('Popular'))

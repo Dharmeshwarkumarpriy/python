@@ -1,0 +1,10 @@
+s="hi raju you there! your use in usa"
+print(s.count("u"))
+print(s)
+print(type(s))
+print(s.replace("raju","saurabh"))
+s1=s.replace("raju","saurabh")
+print(s.find("usa"))
+print(type(s1))
+print(id(s))
+print(id(s1))

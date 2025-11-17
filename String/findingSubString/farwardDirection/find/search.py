@@ -1,0 +1,10 @@
+a="hello raju where are you please tell me"
+print(a.find("p"))
+print(a.find("r"))
+print(a.find("t"))
+print(a.find("s"))
+print(a.find("raju"))
+print("comparison find")
+print(a.find('r',14,21))
+print(a.find('f',21,30))
+print(a.find('s',7,10))

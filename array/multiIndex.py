@@ -1,0 +1,3 @@
+s="sam singh"
+# farward direction indexing print...
+print(s[4])

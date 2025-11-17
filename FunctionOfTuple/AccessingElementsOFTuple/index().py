@@ -1,0 +1,6 @@
+t=(43,54,67,34,65,34,65,34)
+print(t[0])
+print(t[4])
+# print(t[90])
+print(t[-2])
+print(type(t))

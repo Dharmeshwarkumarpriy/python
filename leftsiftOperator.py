@@ -1,0 +1,7 @@
+print(12<<2)
+print(10<<3)
+print("bool")
+print(True<<2)
+print(16<<3)
+print(8<<2)
+print(12<<4)

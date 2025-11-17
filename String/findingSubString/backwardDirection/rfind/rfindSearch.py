@@ -1,0 +1,3 @@
+a="how to learn python"
+# backward direction use in rfind....
+print(a.rfind("e"))

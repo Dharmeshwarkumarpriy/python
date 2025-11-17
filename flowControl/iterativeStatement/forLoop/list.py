@@ -1,0 +1,9 @@
+a=int(input([0]))
+b=int(input([1]))
+c=int(input([2]))
+d=int(input([3]))
+e=int(input([4]))
+list1=(a,b,c,d,e)
+print(list1)
+add=a+b+c+d+e
+print(add)

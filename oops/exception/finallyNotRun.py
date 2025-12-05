@@ -1,6 +1,9 @@
+import os
+
 try:
     print("start 1")
-    print("start 2",iojuo)
+    os._exit(0)
+    print("start 2")
     try:
         print("start 3")
         print("start 4")

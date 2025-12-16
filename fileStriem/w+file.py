@@ -1,0 +1,5 @@
+g=open("abcd.txt",'w+')
+g.write('a man')
+g.seek(0)
+print(g.read())
+g.close()

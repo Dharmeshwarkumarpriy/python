@@ -1,0 +1,8 @@
+f=open("abcd.txt",'w+')
+f.write("hey there im dharma.\n")
+f.write("i live at tilouthu \n")
+f.write("at present time i am present in delhi\n")
+f.write("i will be a developer\n")
+f.seek(0)
+print(f.read())
+f.close()

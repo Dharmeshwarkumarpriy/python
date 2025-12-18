@@ -1,0 +1,5 @@
+f=open("abc.txt",'r')
+print(f.tell())
+print(f.read(115))
+print(f.tell())
+f.close()

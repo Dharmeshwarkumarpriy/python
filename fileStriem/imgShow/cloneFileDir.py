@@ -1,0 +1,5 @@
+f1=open("D:/All pdf/dhram/dharam.mp4",'rb')
+f2=open("dVideo.mp4",'wb')
+bytes=f1.read()
+f2.write(bytes)
+print("new video clone created")

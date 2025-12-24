@@ -1,0 +1,5 @@
+f1=open("D:/All pdf/dhram/photo/nature.jpg",'rb')
+f2=open("newdk.jpg",'wb')
+bytes=f1.read()
+f2.write(bytes)
+print("new image clone created")

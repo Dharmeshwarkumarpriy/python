@@ -1,6 +1,3 @@
-from fileStriem.rvision.lineByLineStoreList import fileName
-
-
 def appendTextToFile(fileName, text):
     with open(fileName,'a') as file:
         file.write(text+'\n')
